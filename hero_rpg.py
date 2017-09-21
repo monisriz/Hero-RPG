@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# Hero RPG
 # In this simple RPG game, the hero fights the goblin. He has the options to:
 # 1. fight goblin
 # 2. do nothing - in which case the goblin will attack him anyway
